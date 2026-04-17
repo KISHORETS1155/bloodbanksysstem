@@ -1,3 +1,4 @@
+
 🩸 Blood Bank Availability System
 📌 Description
 
@@ -43,3 +44,10 @@ System filters available blood banks
 Donors can register their details
 Emergency requests can be submitted
 Admin manages inventory and monitors activity
+<img width="2885" height="1479" alt="search" src="https://github.com/user-attachments/assets/ba97313d-303d-4e40-990c-83cafb106678" />
+<img width="2885" height="1479" alt="request" src="https://github.com/user-attachments/assets/3a0c8249-3c0e-4ed3-bbc7-8f53c4bdea49" />
+<img width="2885" height="1479" alt="login" src="https://github.com/user-attachments/assets/e93c4817-2fb8-4c0d-9e03-987fae871577" />
+<img width="2885" height="1479" alt="inventory" src="https://github.com/user-attachments/assets/90a1fac2-3ed8-4c42-aa18-d03ba0b05864" />
+<img width="2885" height="1479" alt="index" src="https://github.com/user-attachments/assets/2a0fb837-86ca-4211-babd-a22eecfde60b" />
+<img width="2885" height="1479" alt="donor" src="https://github.com/user-attachments/assets/7b657008-5a86-4bba-bb1f-6e7b19ba8fef" />
+<img width="2885" height="1479" alt="admin" src="https://github.com/user-attachments/assets/a5f04798-5d29-41df-bad8-fdedc1bd4033" />
