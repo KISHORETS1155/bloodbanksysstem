@@ -1,5 +1,6 @@
 
 🩸 Blood Bank Availability System
+
 📌 Description
 
 The Blood Bank Availability System is a web-based application designed to help users quickly find available blood units during emergencies. It connects donors, hospitals, and patients through a centralized platform for searching blood availability, registering donors, and managing requests.
@@ -16,7 +17,7 @@ This project is developed to help:
 
 It contributes to building a community-driven healthcare support system.
 
-🚀 Features
+🚀 Features:
 🔍 Search blood by group and city
 🧑‍🤝‍🧑 Donor registration system
 🚨 Emergency blood request system
